@@ -24,7 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier" : "com.ravooto.ios.app"
+      "bundleIdentifier" : "com.ravooto.ios.app.2"
     }
   }
 }
